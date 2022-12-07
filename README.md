@@ -22,3 +22,7 @@ Emails novamente.
 
 Emails né.
 
+## !important
+
+Para helpers CSS ou para algo definitivo como remover motion.
+
