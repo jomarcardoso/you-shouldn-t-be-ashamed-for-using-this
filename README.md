@@ -26,3 +26,7 @@ Emails né.
 
 Para helpers CSS ou para algo definitivo como remover motion.
 
+## Layout não responsivo
+
+Email...
+
