@@ -14,3 +14,11 @@ Componente de Tracking.
 
 Portais de notícias.
 
+## Style inline
+
+Emails novamente.
+
+## Imagens para fazer bordas arredondadas
+
+Emails né.
+
